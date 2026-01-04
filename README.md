@@ -4,7 +4,7 @@ YourControls_Asobo_C172_JT-A_MOD Profile to work with YourControls application a
 
 Made for MSFS2020 and not validated for 2024
 
-**You must be usingthe MOD for the Asobo C172 created by mrtommymxr from this location https://flightsim.to/file/15473/c172jta
+**You must be usingthe MOD for the Asobo C172 created by mrtommymxr from this location https://flightsim.to/file/15473/c172jta **
 
 
 Version 0.1
